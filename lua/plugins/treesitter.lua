@@ -18,7 +18,8 @@ return {
       "yaml",
       "go",
       "rust",
-      "templ",
+      "proto",
+      "svelte",
     },
   },
 }
