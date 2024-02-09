@@ -1,0 +1,31 @@
+return {
+  {
+    "williamboman/mason.nvim",
+    opts = {
+      ensure_installed = {
+        "docker-compose-language-service",
+        "dockerfile-language-server",
+        "markdownlint",
+        "marksman",
+        "terraform-ls",
+        "tailwindcss-language-server",
+        "prettier",
+        "eslint-lsp",
+        "json-lsp",
+        "typescript-language-server",
+        "gofumpt",
+        "goimports",
+        "gopls",
+        "rust-analyzer",
+        "csharp-language-server",
+        "codelldb",
+        "shfmt",
+        "taplo",
+        "stylua",
+        "lua-language-server",
+        "hadolint",
+        "yaml-language-server",
+      },
+    },
+  },
+}

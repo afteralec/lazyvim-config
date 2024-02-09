@@ -20,6 +20,7 @@ return {
       "rust",
       "proto",
       "svelte",
+      "c_sharp",
     },
   },
 }
