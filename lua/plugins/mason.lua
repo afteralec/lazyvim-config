@@ -25,6 +25,7 @@ return {
         "lua-language-server",
         "hadolint",
         "yaml-language-server",
+        "rubocop",
       },
     },
   },
