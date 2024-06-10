@@ -16,6 +16,7 @@ return {
         "gofumpt",
         "goimports",
         "gopls",
+        "templ",
         "rust-analyzer",
         "csharp-language-server",
         "codelldb",
