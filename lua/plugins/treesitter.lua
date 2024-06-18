@@ -22,6 +22,7 @@ return {
       "svelte",
       "sql",
       "c_sharp",
+      "php",
     },
   },
 }
