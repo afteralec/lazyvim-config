@@ -23,6 +23,7 @@ return {
       "sql",
       "c_sharp",
       "php",
+      "vue",
     },
   },
 }
