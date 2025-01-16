@@ -5,7 +5,7 @@ return {
   config = function()
     require("tailwind-sorter").setup({
       on_save_enabled = true,
-      on_save_pattern = { "*.html", "*.svelte", "*.vue" },
+      on_save_pattern = { "*.html", "*.svelte", "*.vue", "*.blade.php" },
       node_path = "node",
     })
   end,
